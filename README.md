@@ -1,0 +1,11 @@
+# Internship
+name = input("What is your name? ")
+age = input("How old are you? ")
+hobby = input("What is your favourite hobby? ")
+favorite_food = input("What is your favourite food? ")
+city = input("Which city do you live in? ")
+print("\n✨ Welcome to the Personal Introduction Program! ✨")
+print(f"Hello {name}! It's really nice to meet you.")
+print(f"You are {age} years old and you enjoy {hobby}.")
+print(f"Your favourite food is {favorite_food}, and you live in {city}.")
+print("Wishing you a wonderful day ahead! 😊")
